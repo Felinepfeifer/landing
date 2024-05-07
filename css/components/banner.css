@@ -1,0 +1,32 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1{
+ color:aquamarine;
+}
+
+.banner p{
+ color: aquamarine;
+ font-size: 20px;
+ font-style: italic;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn-primary{
+  background-color: aqua;
+  color: beige;
+  display: inline-block;
+  padding: 16px 36px;
+  border-radius: 50px;
+}
+
+.banner div{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ height: 100%;
+ align-items: start;
+}
